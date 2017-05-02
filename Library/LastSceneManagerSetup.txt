@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2DLightAsset/Examples/1.SimpleLight.unity
+  isLoaded: 1
+  isActive: 1
